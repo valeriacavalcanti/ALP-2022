@@ -1,0 +1,5 @@
+print('feliz natal' < 'Ano Novo')
+print('400' < '6')
+print('instituto' > 'instituicao')
+print('ifpb' == 'IFPB')
+print('positiva' > 'positivamente')
