@@ -1,0 +1,5 @@
+print(30 != 30)
+print('20' > '100')
+print('mina' in 'dominando')
+print(20 > 100)
+print('A' in 'aeiou'.upper())
